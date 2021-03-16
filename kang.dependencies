@@ -19,18 +19,6 @@
   },
   {
     "remote": "github",
-    "repository": "LineageOS/android_hardware_xiaomi",
-    "target_path": "hardware/xiaomi",
-    "revision": "lineage-18.1"
-  },
-  {
-    "remote": "github",
-    "repository": "LineageOS/android_hardware_lineage_interfaces",
-    "target_path": "hardware/lineage/interfaces",
-    "revision": "lineage-18.1"
-  },
-  {
-    "remote": "github",
     "repository": "LineageOS/android_vendor_qcom_opensource_interfaces",
     "target_path": "vendor/qcom/opensource/interfaces",
     "revision": "lineage-18.1"
