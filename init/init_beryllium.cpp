@@ -58,6 +58,6 @@ void property_override_triple(char const system_prop[], char const vendor_prop[]
 void vendor_load_properties()
 {
     // fingerprint
-    property_override("ro.build.description", "sunfish-user 11 RQ1A.210205.004 7038034 release-keys");
-    property_override_triple("ro.build.fingerprint", "ro.vendor.build.fingerprint", "ro.bootimage.build.fingerprint", "google/sunfish/sunfish:11/RQ1A.210205.004/7038034:user/release-keys");
+    property_override("ro.build.description", "redfin-user 11 RQ1A.210505.003 7255357 release-keys");
+    property_override_triple("ro.build.fingerprint", "ro.vendor.build.fingerprint", "ro.bootimage.build.fingerprint", "google/redfin/redfin:11/RQ2A.210505.003/7255357:user/release-keys");
 }
